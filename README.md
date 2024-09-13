@@ -23,18 +23,29 @@
  Throughout this project, I have gained a wealth of knowledge and hands-on experience in
  the field of robotics and embedded systems. Working closely with the Kinova robotic arm and developing the associated control systems has been both challenging and rewarding.
  Some things I have learned include
-  EmbeddedSystems Development: Hands-on experience in designing and implement
+ - **Embedded Systems Development** : Hands-on experience in designing and implement
 ing real-time control systems for robotic hardware.
- 2. Robotic Arm Control: Proficiency in programming and controlling robotic arms,
+ - **Robotic Arm Control** : Proficiency in programming and controlling robotic arms,
  including precise movement and task automation.
- 3. Sensor Integration: Techniques for integrating and processing sensory data to im
+- **Sensor Integration** : Techniques for integrating and processing sensory data to im
 prove robotic accuracy and reliability.
- 4. Algorithm Development: Skills in developing and optimizing algorithms for object
+- **Algorithm Development** : Skills in developing and optimizing algorithms for object
  recognition and manipulation.
- 5. Problem-Solving: Enhanced problem-solving skills through addressing and overcom
+- **Problem-Solving** : Enhanced problem-solving skills through addressing and overcom
 ing challenges during system integration and testing.
- 6. Project Management: Improved project management abilities, including timeline
+- **Project Management** : Improved project management abilities, including timeline
  management and effective documentation.
 
+## Main steps 
 
-### **1. Filtrage et diagramme de Bode :**
+In my Kinova Gen3 robotic arm project, I focused on optimizing pick-and-place operations so that the robotic arm could accurately handle objects regardless of their orientation or position within the camera’s field of view (FOV).
+
+Main Steps:
+
+- **Kortex API Setup**: Configured the robotic arm using the Kortex API and calibrated it for precise control with six degrees of freedom (DOF).
+- **Camera Integration**: Connection to a camera system to capture real-time data and enable detection and analysis of objects within its FOV.
+- **Algorithm Development**: Developed Python algorithms that enabled the arm to pick and place objects at any orientation and position within the camera’s FOV.
+- **Testing and Refinement**: Conducted thorough testing and refinement to ensure the system could accurately and efficiently handle objects in various scenarios.
+
+## Demonstartion
+
