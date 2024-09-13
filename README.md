@@ -50,5 +50,17 @@ Main Steps:
 ## Demonstartion
 https://github.com/user-attachments/assets/1973cda6-11ba-4fed-a023-af92187cdbf2
 
+# Contributors :
+- Prepared by : **M'HIFED Zineb**
+-  Under the supervision of :
+   - **Professor AOUF Nabil** :
+ Professor of Robotics, Autonomous
+ Systems, and Machine Intelligence,
+ Director of Autonomy of Systems
+ Centre (ASC), Director of London
+ Space Innovation (LSI) Centre City
+ University of London
+   - **CHEKAKTA Zakaria** : Research Fellow
+ at City, University of Londo
 
 
