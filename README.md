@@ -1,5 +1,5 @@
 # Kinova-Gen3-arm
-<img width="240" alt="a"  src="https://user-images.githubusercontent.com/121026257/215289489-25b429ae-baee-4602-902f-116e58107673.PNG">
+<img width="240" alt="a"  src="https://github.com/zineb-212/Kinova-Gen3-arm/issues/1#issue-2524758671">
 
 
  ## Objectif
