@@ -37,6 +37,7 @@ ing challenges during system integration and testing.
  management and effective documentation.
 
 ## Host organization
+
  City, University of London, located in the heart of London, served as the host organization
  for this internship project. The School of Science and Technology provided exceptional
  support with its state-of-the-art research facilities and extensive resources, essential for
@@ -44,6 +45,8 @@ ing challenges during system integration and testing.
  in their fields, offered invaluable guidance throughout the project. Their knowledge and
  mentorship were crucial in steering the project toward successful completion, ensuring
  high standards and effective outcomes.
+ <img width="700" alt="a"  src="https://github.com/user-attachments/assets/e5cffcbf-182f-48b6-917f-50c495a9fb99">
+
 
 ## Main steps 
 
