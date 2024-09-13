@@ -36,6 +36,15 @@ ing challenges during system integration and testing.
 - **Project Management** : Improved project management abilities, including timeline
  management and effective documentation.
 
+## Host organization
+ City, University of London, located in the heart of London, served as the host organization
+ for this internship project. The School of Science and Technology provided exceptional
+ support with its state-of-the-art research facilities and extensive resources, essential for
+ the project’s success. The academic experts at the School, renowned for their expertise
+ in their fields, offered invaluable guidance throughout the project. Their knowledge and
+ mentorship were crucial in steering the project toward successful completion, ensuring
+ high standards and effective outcomes.
+
 ## Main steps 
 
 In my Kinova Gen3 robotic arm project, I focused on optimizing pick-and-place operations so that the robotic arm could accurately handle objects regardless of their orientation or position within the camera’s field of view (FOV).
